@@ -16,7 +16,7 @@ mirror_raspbian=http://mirrordirector.raspbian.org/raspbian
 mirror_raspberrypi=http://archive.raspberrypi.org/debian
 declare mirror_raspbian_cache
 declare mirror_raspberrypi_cache
-release=stretch
+release=buster
 
 packages=()
 
